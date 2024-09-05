@@ -1,0 +1,3 @@
+/media/drive/CPP_Project/ClionProjects/Custom_Malloc/cmake-build-debug/CMakeFiles/Custom_Malloc.dir
+/media/drive/CPP_Project/ClionProjects/Custom_Malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/drive/CPP_Project/ClionProjects/Custom_Malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
